@@ -1,6 +1,6 @@
 ---
 title: Candle Shrinkage Trick
-youtube_id: 4O7_6nvAk08
+youtube_id: 1WnLfR08sKU
 date: 2014-12-09
 tags: [Candles, Tips]
 ---
