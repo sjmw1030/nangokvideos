@@ -1,7 +1,7 @@
 name: Jekyll Video
 description: Template for a video blog.
 url: 'https://sjmw1030.github.io'
-baseurl: '/nangokvideos'
+baseurl: '/'
 email: rotc39@gmail.com
 twitter: https://twitter.com/jekyll-video
 youtube: https://www.youtube.com/jekyll-video
