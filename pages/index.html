@@ -16,12 +16,12 @@ permalink: /
   </nav>
 </header>
 
-<center> <b>※ 최근 영상 3편 외 더 보시려면, 설교영상 메뉴을 선택하세요.</b> </center> 
+<center> <b>※ 최근 영상 6편 외 더 보시려면, 설교영상 메뉴을 선택하세요.</b> </center> 
 <p>
 
 <ul class='videos'>
   {% assign videos = site.videos | reverse %}
-  {% for video in videos | limit: 4 %}
+  {% for video in videos | limit: 6 %}
   <li>
     <a href='{{ site.baseurl }}{{ video.url }}'>
       <h3>{{ video.title }}</h3>
