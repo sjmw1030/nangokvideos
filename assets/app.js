@@ -1,4 +1,4 @@
 ---
 ---
 
-{% include_relative _js/index.js %}
+{% include_relative_js/index.js %}
