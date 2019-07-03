@@ -1,8 +1,8 @@
 ---
-title: Portable Bench
-youtube_id: 3yRHVVwbzHo
+title: 소년부_요게벳의 노래
+youtube_id: RHNuB3zQTDo
 date: 2015-01-24
-tags: [Bench, Construction]
+tags: [소년부, 찬양]
 ---
 A few years ago, very early in the history of this vlog, I showed my portable bench made from the plans found in the Jan 2012 issue of Bee Culture magazine. I've been using the bench consistently since then, I just never really talked about it again. To make up for that, here's a video showing more about the bench designed by Katharina Davitt.
 
