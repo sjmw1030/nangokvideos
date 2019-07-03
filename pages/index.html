@@ -7,7 +7,9 @@ permalink: /
   <img src='{{ site.baseurl }}/assets/img/home.png' />
   <nav role='navigation'>
     <ul>
-      <li><a href='{{ site.baseurl }}/videos'> <font size=3> 영상보기 </font> </a></li>
+      <li><a href='{{ site.baseurl }}/videos'> <font size=3> 영상보기Ⅰ </font> </a></li>
+      &bull;
+      <li><a href='{{ site.baseurl }}/videos2'> <font size=3> 영상보기Ⅱ </font> </a></li>
       &bull;
       <li><a href='{{ site.baseurl }}/words'> <font size=3> QT보기 </font> </a></li>
       &bull;
@@ -16,12 +18,12 @@ permalink: /
   </nav>
 </header>
 
-<center> <font size=2> <b>※ 최근 영상 6편 외 더 보시려면, 영상보기 메뉴을 선택하세요.</b> </font> </center> 
+<center> <font size=2> <b>※ 최근 영상 3편 외 더 보시려면, 영상보기 메뉴을 선택하세요.</b> </font> </center> 
 <p>
 
 <ul class='videos'>
   {% assign videos = site.videos | reverse %}
-  {% for video in videos | limit: 6 %}
+  {% for video in videos | limit: 3 %}
   <li>
     <a href='{{ site.baseurl }}{{ video.url }}'>
       <h3>{{ video.title }}</h3>
