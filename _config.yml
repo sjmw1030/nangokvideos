@@ -24,6 +24,9 @@ collections:
   videos:
     output: true
     permalink: /:path/
+  videos2:
+    output: true
+    permalink: /:path/
 defaults:
   -
     scope:
@@ -37,3 +40,10 @@ defaults:
       type: videos
     values:
       layout: video
+   -
+    scope:
+      path: ''
+      type: videos2
+    values:
+      layout: video2
+
